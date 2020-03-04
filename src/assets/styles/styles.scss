@@ -1,0 +1,15 @@
+// Base styles
+@import './base/settings';
+@import './base/materialshadows';
+@import './base/base';
+
+// Component styles
+@import './components/main';
+@import './components/content';
+@import './components/footer';
+@import './components/navbar/navbar';
+@import './components/navbar/navlink';
+@import './components//navbar/navside';
+@import './components//navbar/navtoggle';
+@import './components//decorations/list';
+@import './components/decorations/card';
